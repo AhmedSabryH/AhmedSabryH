@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="39" alt="jquery logo"  />
 </div>
 
-<div align="left">
+<div align="left" style="margin-top:25px;">
   <a href="https://wa.me/+201080643815?text=Peace%20be%20upon%20you" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
